@@ -23,4 +23,7 @@ Nasz ulubiony dźwięk banana:
   <p>Your browser does not support the audio element.</p>
 </audio>
 
-Wprowadziliśmy również możliwość pominięcia gry, jeśli gracz skończył wyścig przed przeciwnikami, co miało poprawić komfort rozgrywki. Mimo tych wszystkich usprawnień, przeciwnicy wciąż pozostawali w fazie rozwoju🙈.
+Wprowadziliśmy również możliwość pominięcia gry, jeśli gracz skończył wyścig przed przeciwnikami, co miało poprawić komfort rozgrywki. Mimo tych wszystkich usprawnień, przeciwnicy wciąż pozostawali w fazie rozwoju🙈. Pracowialiśmy nad omijaniem przeszkód:
+
+![alt text](/images/posts/przeciwnicy1.png)
+

@@ -20,3 +20,7 @@ Podjęliśmy także parę innych decyzji jak np. stosowanie Separating Axis Theo
 ![alt text](/images/posts/menupomysl.png)
 
 Poza tym dalej kontynuowaliśmy prace nad przeciwnikami, którzy już w miare sensownie trzymają się toru (na razie w zasadzie jest tylko jeden - jadący środkiem toru, ale już w miarę sensownie).
+
+W między czasie znaleźliśmy genialny sposób jak nie przekazywać referencji 5 klas w dół (nie wiemy czy to prawidłowe podejście, ale rozwiązało nasz problem z referencjami).
+
+![alt text](/images/posts/genialnypomysl.png)

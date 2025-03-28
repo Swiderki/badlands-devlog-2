@@ -21,6 +21,8 @@ Rozpoczęliśmy również szereg nowych zadań. Zajęliśmy się dodawaniem nowy
 
 Naprawiliśmy również problem związany z delta time, co poprawiło płynność gry na wszystkich monitorach. Zaczęliśmy projektować nowe mapy, które miały dodać różnorodności do gry, oraz rozbudować interfejs użytkownika, by stał się bardziej funkcjonalny. Pracowaliśmy także nad ekranem końcowym, który wyświetlałby się po zakończeniu wyścigu. Ponadto, dodaliśmy nowe sceny do gry, by zwiększyć jej dynamikę.
 
+![alt text](/images/posts/feature2.png)
+
 Podjęliśmy decyzję, jakimi autami będziemy jeździć w grze. Zdecydowaliśmy się na Peugeot oraz Astrę, które miały stać się dwoma głównymi pojazdami w wyścigu. Zaczęliśmy również tworzyć pierwsze koncepcje map, zastanawiając się nad ich wyglądem i strukturą.
 
 Mimo że przeciwnicy wciąż nie byli w pełni zaimplementowani, zauważyliśmy, że zaczynają sensownie poruszać się po torze, co stanowiło krok w dobrą stronę.
