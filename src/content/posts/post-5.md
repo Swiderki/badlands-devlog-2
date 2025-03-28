@@ -3,7 +3,7 @@ title: "Czwarte spotkanie
 "
 meta_title: ""
 description: "meta description"
-date: 2025-02-28T05:00:00Z
+date: 2025-03-14T05:00:00Z
 image: "/images/posts/feature3.png"
 categories: ["programming"]
 authors: ["Świderki"]

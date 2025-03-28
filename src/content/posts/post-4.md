@@ -3,7 +3,7 @@ title: "Trzecie spotkanie
 "
 meta_title: ""
 description: "meta description"
-date: 2025-02-21T05:00:00Z
+date: 2025-03-02T05:00:00Z
 image: "/images/posts/menupomysl.png"
 categories: ["programming"]
 authors: ["Świderki"]

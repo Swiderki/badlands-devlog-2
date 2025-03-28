@@ -3,7 +3,7 @@ title: "Drugie spotkanie
 "
 meta_title: ""
 description: "meta description"
-date: 2025-02-14T05:00:00Z
+date: 2025-02-22T05:00:00Z
 image: "/images/posts/tor2.png"
 categories: ["programming"]
 authors: ["Świderki"]

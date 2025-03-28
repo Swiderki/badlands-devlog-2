@@ -3,7 +3,7 @@ title: "Piąte spotkanie
 "
 meta_title: ""
 description: "meta description"
-date: 2025-02-29T05:00:00Z
+date: 2025-03-24T05:00:00Z
 image: "/images/posts/debug.png"
 categories: ["programming"]
 authors: ["Świderki"]

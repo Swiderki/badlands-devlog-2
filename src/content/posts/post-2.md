@@ -3,7 +3,7 @@ title: "Odpoczynek jest najważniejszy
 "
 meta_title: ""
 description: "meta description"
-date: 2025-02-07T05:00:00Z
+date: 2025-02-12T05:00:00Z
 image: "/images/posts/brakspotkania4.png"
 categories: ["programming"]
 authors: ["Świderki"]

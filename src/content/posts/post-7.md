@@ -3,7 +3,7 @@ title: "Spotkanie u stasia
 "
 meta_title: ""
 description: "meta description"
-date: 2025-02-31T05:00:00Z
+date: 2025-03-31T05:00:00Z
 image: "/images/posts/krzeszowice.jpeg"
 categories: ["programming"]
 authors: ["Świderki"]

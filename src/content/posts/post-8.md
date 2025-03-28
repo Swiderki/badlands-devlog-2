@@ -3,7 +3,7 @@ title: "Oddanie proejktu
 "
 meta_title: ""
 description: "meta description"
-date: 2025-02-39T05:00:00Z
+date: 2025-04-01T05:00:00Z
 image: "/images/posts/zaba.png"
 categories: ["programming"]
 authors: ["Świderki"]
