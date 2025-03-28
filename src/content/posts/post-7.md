@@ -1,5 +1,5 @@
 ---
-title: "Spotkanie u stasia
+title: "Spotkanie u Stasia
 "
 meta_title: ""
 description: "meta description"
