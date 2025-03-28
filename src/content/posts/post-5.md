@@ -1,23 +1,26 @@
 ---
-title: "Banana is the best meal packages in the UK spark outrage online"
+title: "Czwarte spotkanie
+"
 meta_title: ""
 description: "meta description"
-date: 2022-04-05T16:56:47+06:00
-image: "/images/posts/05.jpg"
+date: 2025-02-28T05:00:00Z
+image: "/images/posts/feature3.png"
+categories: ["programming"]
+authors: ["Świderki"]
+tags: ["motorola"]
 draft: false
-authors: ["John Doe"]
-tags: ["Food", "Gold"]
-categories: ["Food"]
 ---
 
-A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa. In some countries, bananas used for cooking may be called "plantains", distinguishing them from dessert bananas.
+Na czwartym spotkaniu omówiliśmy dotychczasowe postępy w projekcie. Prace nad grą szły w dobrym kierunku, choć przeciwnicy nadal nie działali tak, jak byśmy tego chcieli. W ramach omawiania zrealizowanych zadań skupiliśmy się na poprawkach fizyki, a także dokończeniu prac nad interfejsem użytkownika.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+![alt text](/images/posts/zadania1.png)
 
-### Creative Design
+Rozpoczęliśmy również szereg nowych zadań. Zajęliśmy się dodawaniem nowych przeszkód na torze, co miało urozmaicić wyścigi co wywołało nowe błędy.
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+![alt text](/images/posts/feature3.png)
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Naprawiliśmy również problem związany z delta time, co poprawiło płynność gry na wszystkich monitorach. Zaczęliśmy projektować nowe mapy, które miały dodać różnorodności do gry, oraz rozbudować interfejs użytkownika, by stał się bardziej funkcjonalny. Pracowaliśmy także nad ekranem końcowym, który wyświetlałby się po zakończeniu wyścigu. Ponadto, dodaliśmy nowe sceny do gry, by zwiększyć jej dynamikę.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Podjęliśmy decyzję, jakimi autami będziemy jeździć w grze. Zdecydowaliśmy się na Peugeot oraz Astrę, które miały stać się dwoma głównymi pojazdami w wyścigu. Zaczęliśmy również tworzyć pierwsze koncepcje map, zastanawiając się nad ich wyglądem i strukturą.
+
+Mimo że przeciwnicy wciąż nie byli w pełni zaimplementowani, zauważyliśmy, że zaczynają sensownie poruszać się po torze, co stanowiło krok w dobrą stronę.

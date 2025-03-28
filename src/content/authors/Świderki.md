@@ -1,7 +1,7 @@
 ---
-title: John Doe
+title: Świderki
 meta_title: ""
-image: /images/authors/john-doe.jpg
+image: /images/authors/mark-dinn.jpg
 description: this is meta description
 social:
   facebook: https://www.facebook.com/

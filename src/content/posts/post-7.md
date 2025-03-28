@@ -1,23 +1,18 @@
 ---
-title: "How to make toys from old Olarpaper"
+title: "Piąte spotkanie
+"
 meta_title: ""
 description: "meta description"
-date: 2022-04-07T05:00:00Z
-image: "/images/posts/01.jpg"
-categories: ["art"]
-authors: ["Mark Dinn"]
-tags: ["diy", "toy"]
+date: 2025-02-29T05:00:00Z
+image: "/images/posts/debug.png"
+categories: ["programming"]
+authors: ["Świderki"]
+tags: ["motorola"]
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Na szóstym spotkaniu postanowiliśmy spotkać się w nowym miejscu – u Stasia, co miało dodać świeżości do naszej pracy. Zaczęliśmy od przyjazdem Astrą - autem Bartusia, co miało być pewnym nawiązaniem do wyboru samochodu w grze. Spotkanie skupiło się na ogarnięciu wszystkiego do kupy i zrobieniu porządku z dotychczasowymi elementami projektu. Zajęliśmy się delikatnym refaktoryzowaniem kodu, co miało na celu poprawienie jego czytelności i organizacji. Chcieliśmy upewnić się, że wszystko jest spójne i działa płynnie.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Po refaktoryzacji przyszedł czas na sprawdzenie, czy wszystko działa tak, jak powinno. Upewniliśmy się, że wszystkie zmiany zostały zaimplementowane poprawnie, a gra działa zgodnie z oczekiwaniami. W międzyczasie, nie zapomnieliśmy o przerwie na kawę, która dodała energii do dalszej pracy.
 
-## Creative Design
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Prace nad przeciwnikami wciąż trwały, choć nie byliśmy jeszcze w pełni zadowoleni z ich działania. Mimo to, zauważyliśmy pewien postęp (2 z 4 przeciwników działało) i nadzieję na finalizację ich implementacji. Zajęliśmy się również testami – przeprowadziliśmy zarówno testy manualne, jak i automatyczne, aby upewnić się, że gra działa stabilnie i nie zawiera poważnych błędów. To spotkanie było jednym z kluczowych momentów, który pozwolił na ostateczne dopracowanie kodu przed finalizacją projektu.

@@ -1,23 +1,26 @@
 ---
-title: "Become a morning person with the help of alarm clock"
+title: "Piąte spotkanie
+"
 meta_title: ""
 description: "meta description"
-date: 2022-04-06T16:56:47+06:00
-image: "/images/posts/06.jpg"
+date: 2025-02-29T05:00:00Z
+image: "/images/posts/debug.png"
+categories: ["programming"]
+authors: ["Świderki"]
+tags: ["motorola"]
 draft: false
-authors: ["Mark Dinn"]
-tags: ["Alarm", "Clock"]
-categories: ["LifeStyle"]
 ---
 
-Almost every day for the past nine or so months has felt like March 13, and that can sometimes make it difficult to want to wake up for the day ahead of you.
+Na piątym spotkaniu omawialiśmy postępy w projekcie, choć wciąż mieliśmy problemy z działaniem przeciwników. Mimo tego, że ich implementacja wciąż nie była zakończona, skupiliśmy się na innych zadaniach, które miały poprawić doświadczenia z gry. Zajęliśmy się testowaniem i znajdowaniem bugów, które pojawiły się podczas dotychczasowej pracy. Przeprowadziliśmy testy manualne, aby upewnić się, że wszystko działa zgodnie z oczekiwaniami.
 
-To make a morning person out of you, the wake-up light simulates the sunrise to gradually ease you awake. This allows you to wake up more naturally rather than being jolted awake by the default iPhone alarm sound, which honestly triggers my fight or flight response.
+![alt text](/images/posts/debug.png)
 
-### Creative Design
+Dodaliśmy także kolejne przeszkody na torze, co miało urozmaicić rozgrywkę i uczynić ją bardziej wymagającą. Prace nad grafiką były kontynuowane, a także zaktualizowaliśmy interfejs użytkownika, by stał się bardziej przyjazny i funkcjonalny. Skupiliśmy się na poprawie doświadczenia gracza, dokonując delikatnych zmian w fizyce, które miały na celu poprawienie płynności i realizmu jazdy. Powoli zaczęliśmy również implementować dźwięki, które miały wzbogacić grę o lepsze doświadczenia.
+Nasz ulubiony dźwięk banana:
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+<audio controls="controls">
+  <source type="audio/mp3" src="/images/posts/banan.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Wprowadziliśmy również możliwość pominięcia gry, jeśli gracz skończył wyścig przed przeciwnikami, co miało poprawić komfort rozgrywki. Mimo tych wszystkich usprawnień, przeciwnicy wciąż pozostawali w fazie rozwoju🙈.
