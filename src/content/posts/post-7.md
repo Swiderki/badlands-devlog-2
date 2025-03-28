@@ -1,17 +1,17 @@
 ---
-title: "Piąte spotkanie
+title: "Spotkanie u stasia
 "
 meta_title: ""
 description: "meta description"
-date: 2025-02-29T05:00:00Z
-image: "/images/posts/debug.png"
+date: 2025-02-31T05:00:00Z
+image: "/images/posts/krzeszowice.jpeg"
 categories: ["programming"]
 authors: ["Świderki"]
 tags: ["motorola"]
 draft: false
 ---
 
-Na szóstym spotkaniu postanowiliśmy spotkać się w nowym miejscu – u Stasia, co miało dodać świeżości do naszej pracy. Zaczęliśmy od przyjazdem Astrą - autem Bartusia, co miało być pewnym nawiązaniem do wyboru samochodu w grze. Spotkanie skupiło się na ogarnięciu wszystkiego do kupy i zrobieniu porządku z dotychczasowymi elementami projektu. Zajęliśmy się delikatnym refaktoryzowaniem kodu, co miało na celu poprawienie jego czytelności i organizacji. Chcieliśmy upewnić się, że wszystko jest spójne i działa płynnie.
+Na szóstym spotkaniu postanowiliśmy spotkać się w innym miejscu – u Stasia, w Krzeszowicach. Zaczęliśmy od przyjazdem Astrą - autem Bartusia, co miało być pewnym nawiązaniem do wyboru samochodu w grze. Spotkanie skupiło się na ogarnięciu wszystkiego do kupy i zrobieniu porządku z dotychczasowymi elementami projektu. Zajęliśmy się delikatnym refaktoryzowaniem kodu, co miało na celu poprawienie jego czytelności i organizacji. Chcieliśmy upewnić się, że wszystko jest spójne i działa płynnie.
 
 Po refaktoryzacji przyszedł czas na sprawdzenie, czy wszystko działa tak, jak powinno. Upewniliśmy się, że wszystkie zmiany zostały zaimplementowane poprawnie, a gra działa zgodnie z oczekiwaniami. W międzyczasie, nie zapomnieliśmy o przerwie na kawę, która dodała energii do dalszej pracy.
 
