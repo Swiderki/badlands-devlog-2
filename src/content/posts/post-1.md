@@ -29,5 +29,10 @@ Dalej zdecydowaliśmy się wypisać wszystkie rzeczy, które musimy zrobić w ap
 
 ![alt text](/images/posts/rozpiska2.jpg)
 
+A tutaj w bardziej profesjonalny sposób  (Trzeba przybliżyć)
+
+![alt text](/images/posts/rozpiska3.png)
+
+
 Będzie ona podzielona na sceny, a główna logika gry będzie w pliku game.ts w którym połączymy DisplayDriver. odpowiedzialny z renderowanie obrazy, PhysicsDirver odpowiedzialny za obsługę fizyki w grze, oraz PlayerController i OpponentController-y odpowiedzialne za gracza i przeciwników.
 Później gdy spotkanie dobiegało już końca ustawiliśmy pierwsze zadania, które wpisaliśmy już na Trello i przypisaliśmy do odpowiednich osób. Tak oto rozpoczęliśmy naszą przygodę z tegoroczną edycją konkursu Motorola Science Cup.
