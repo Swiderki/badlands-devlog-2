@@ -1,5 +1,5 @@
 ---
-title: "Oddanie proejktu
+title: "Oddanie projektu
 "
 meta_title: ""
 description: "meta description"
@@ -11,4 +11,8 @@ tags: ["motorola"]
 draft: false
 ---
 
-Po cięzkiej walce udało się zakończyć projekt (przeciwników też 😉). Odesłalismy projekt wraz ze wszystkimi potrzebnymi dodatkami - dokumentacją, devlogiem oraz testami.
+Po cięzkiej walce i po 16 spotkaniach w ciagu 2 dni udało się zakończyć projekt (przeciwników też 😉). Odesłalismy projekt wraz ze wszystkimi potrzebnymi dodatkami - dokumentacją, devlogiem oraz testami. 
+
+PS
+
+Na zdjęciu widać nasz projekt🔥🔥🔥
