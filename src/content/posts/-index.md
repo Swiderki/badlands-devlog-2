@@ -1,4 +1,4 @@
 ---
-title: Posts
-meta_title: ""
+title: "Swiderki"
+meta_title: "Swiderki"
 ---
