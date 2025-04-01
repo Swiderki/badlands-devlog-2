@@ -13,7 +13,7 @@ draft: false
 
 Po cięzkiej walce i po 16 spotkaniach w ciagu 2 dni udało się zakończyć projekt (przeciwników też 😉). Odesłalismy projekt wraz ze wszystkimi potrzebnymi dodatkami - dokumentacją, devlogiem oraz testami. 
 
-Po sprawdzeniu okazało się że mamy w kodzie około 6100 lini kodu !!!
+Po sprawdzeniu okazało się że nasza gra ma około 6100 lini kodu !!!
 
 ![alt text](/images/posts/linie-kodu.png)
 
