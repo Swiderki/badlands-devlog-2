@@ -1,7 +1,7 @@
 ---
 title: "Świderki"
 meta_title: "About"
-image: "/images/author.png"
+image: "/images/Team_Motorola.png"
 draft: false
 
 what_i_do:
@@ -17,4 +17,13 @@ what_i_do:
       description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
 ---
 
-Jesteśmy zespołem biorącym udział (znowu!) w konkursie Motorola Science Cup.
+👨‍💻 Jesteśmy drużyną z Technikum Łączności w Krakowie i po raz drugi 💪 bierzemy udział w Motorola Science Cup! Tym razem w nieco zmienionym składzie, ale z tą samą pasją do programowania, technologii i dobrej zabawy 😎💻⚙️
+
+👥 Nasz skład:
+- Stanisław Dębicki 🚀
+- Bartosz Kaczor 🧠
+- Karol Ciurej 🛠️
+- Karol Ostrówka 🔍
+- Bartosz Trojan ⚡
+
+🔥 Reprezentujemy klasy 4P i 4Ib i nie boimy się żadnego wyzwania! Kod to nasz drugi język 🧑‍💻🧑‍🚀, a innowacja to nasza codzienność! 🚀

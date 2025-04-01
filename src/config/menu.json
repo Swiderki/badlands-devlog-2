@@ -8,7 +8,14 @@
       "name": "About",
       "url": "/about"
     },
-
+    {
+      "name": "Złoziemie",
+      "url": "/about"
+    },
+    {
+      "name": "Docs",
+      "url": "https://badlands-docs.vercel.app"
+    },
     {
       "name": "Pages",
       "url": "",
